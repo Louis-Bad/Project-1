@@ -20,7 +20,14 @@ Provide task delegations (who worked on what)
     3. What features has the highest correlation with price.
 
     With these questions on mind we were going to find what feature has the most effect on price.
-    We used stat
+
+
+First of all we wanted to have good & clean dataset which represents the housing market in King County. After cleaning the data stated we started exploraiton of the data using visuals and some statistical technique's. We took a subset from our data set which is 3rd out of 4 price band category which the housing market is bigger compared to other price bands. After finding out some characteristics of houses we wanted to make a model that predicts the price given features. We used Multivariate Linear Regression model to predict how much a would cost within these price band areas.
+
+- Data Cleaning - Louis Bademosi 
+- Subsetting for hypothesis - Kaan Bursa
+- Model generation - Louis Bademosi / Kaan Bursa
+- Story Generation - Louis Bademosi / Kaan Bursa
 
 
 
